@@ -11,7 +11,7 @@ function Header() {
           alt="Logo"
           className="h-10 w-10 object-contain"
         />
-        <span className="font-semibold text-lg select-none">echevesteproject</span>
+        <span className="font-semibold text-lg select-none">EchevesteProject</span>
       </div>
 
       <a
