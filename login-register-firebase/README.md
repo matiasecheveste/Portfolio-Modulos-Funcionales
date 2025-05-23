@@ -38,7 +38,7 @@ src/
 
 ---
 
-## 📸 Capturas (opcional)
+## 📸 Capturas
 
 ![alt text](image.png)
 ![alt text](image-1.png)
