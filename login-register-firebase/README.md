@@ -38,7 +38,7 @@ src/
 
 ---
 
-## 📸 Capturas (opcional)
+## 📸 Capturas
 
 ![alt text](image.png)
 ![alt text](image-1.png)
@@ -49,7 +49,11 @@ src/
 
 ## 🔧 Cómo correr el proyecto
 
-1. Clona este repositorio:
+1. Ingresa a la siguiente url:
+
+  [login-register-firebase-ep-module](https://login-register-firebase-ep.vercel.app)
+
+2. Clona este repositorio:
 
 ```bash
 git clone https://github.com/matiasecheveste/Portfolio-Modulos-Funcionales.git
@@ -80,6 +84,8 @@ export const auth = getAuth(app);
 Corre el servidor:
 
 npm run dev
+```
+
 ✨ Créditos
 Este proyecto fue desarrollado por Matías Nicolás Echeveste Cardozo como parte de su portafolio profesional bajo su firma EchevesteProject.
 
