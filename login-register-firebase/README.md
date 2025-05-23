@@ -51,7 +51,7 @@ src/
 
 1. Ingresa a la siguiente url:
 
-[login-register-firebase-ep-module](https://login-register-firebase-ep.vercel.app)
+  [login-register-firebase-ep-module](https://login-register-firebase-ep.vercel.app)
 
 2. Clona este repositorio:
 
